@@ -1,4 +1,4 @@
-# type pip install qrcode to install qrcode in your terminal(cmd)
+# type pip install qrcode in your terminal(cmd) to install in your machine
 import qrcode
 import time
 print("==========QR Code Generator==========")
